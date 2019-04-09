@@ -1,0 +1,42 @@
+body {
+	background-color: grey;
+}
+.bis {
+	background-color: white;
+	width: 160px;
+	height: 60px;
+	color: black;
+	border-radius: 20px;
+	border-color: lightgreen;
+}
+.rbis {
+	box-shadow: 1px 1px 1px 3px black;
+	background-color: black;
+	color: white;
+}
+.p514 {
+	font-size: 11px;
+}
+.input340 {
+	height: 35px;
+	width: 150px;
+	border-radius: 20px;
+	border-color: lightgreen;
+	transition: 0.50s;
+	padding: 5px;
+	font-size: 18px;
+}
+.valbut {
+	width: 240px;
+	height: 50px;
+	border-color: lightgreen;
+	border-radius: 20px;
+	background-color: white;
+	color: black;
+}
+.input340:focus {
+	width: 240px;
+}
+.input340::placeholder {
+	text-align: center;
+}
